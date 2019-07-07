@@ -2,7 +2,7 @@
 @\import "https://malscraper.azurewebsites.net/covers/auto/presets/dataimagelinkafter";
 
 :root{
-	--color: #f10834;
+	--color: #7b00ff;
 }
 
 /* Latest Updates: 02.09.2018
@@ -17,13 +17,13 @@
     height: 9px;
     width: 9px;
     background-color: var(--color);
-    border: 4px solid #191919;
+    border: 4px solid #7b00ff;
 }
 
 ::-webkit-scrollbar-thumb {
     border: 4px solid transparent;
     background-clip: padding-box;
-    background-color: #3c3c3c;
+    background-color: #7b00ff;
 }
  
 body {
@@ -65,14 +65,14 @@ body .initialize-tutorial {
     display: block;
     width: 90px;
     height: 80px;
-    background: #191919;
+    background: #7b00ff;
     border-bottom: 2px solid var(--color);
     pointer-events: auto;
     transform: rotate(-45deg);
 }
 
 .initialize-tutorial a, .initialize-tutorial a:visited {
-    color: #828282 !important;
+    color: #7b00ff !important;
 }
 
 .initialize-tutorial:hover .initialize-tutorial__message {
@@ -97,7 +97,7 @@ body .initialize-tutorial {
     width: 450px;
     height: 36px;
     padding: 10px 10px 10px 30px;
-    background: #191919;
+    background: #7b00ff;
     border-bottom: 1px solid var(--color);
     border-right: none;
     line-height: 15px;
@@ -113,7 +113,7 @@ body .initialize-tutorial {
     left: 0;
     width: 30px;
     height: 30px;
-    color: #3c3c3c;
+    color: #7b00ff;
     font: 20px/30px FontAwesome;
     z-index: 1;
 }
@@ -153,7 +153,7 @@ i.fa.fa-sort-asc.sort-icon,
     right: 0;
     height: 40px;
     width: 100%;
-    background-color: #191919;
+    background-color: #7b00ff;
     color: #fff;
     z-index: 100;
     list-style: none;
@@ -242,7 +242,7 @@ i.fa.fa-sort-asc.sort-icon,
     background-repeat: no-repeat;
 	width: 1053px;
     height: 250px;
-    background-color: #191919;
+    background-color: #7b00ff;
     margin-bottom: 52px;
     margin-left: 0;
     margin-right: 0;
@@ -362,7 +362,7 @@ body.ownlist.manga .list-container .list-unit .list-table tbody:first-child:hove
 
 .list-container .list-unit .list-table tbody:first-child .list-table-header .header-title .link:hover {
   text-decoration: none;
-  color: #191919;
+  color: #7b00ff;
 }
 
 .list-container .list-unit .list-table tbody:first-child .list-table-header .header-title {
@@ -377,7 +377,7 @@ body.ownlist.manga .list-container .list-unit .list-table tbody:first-child:hove
     width: 100%;
     border: transparent;
     list-style: none;
-    background: #191919;
+    background: #7b00ff;
     color: #fff;
     margin: 10px 0px 0px;
     padding-bottom: 15px;
@@ -394,8 +394,8 @@ body.ownlist.manga .list-container .list-unit .list-table tbody:first-child:hove
     height: 330px;
     box-sizing: border-box;
     padding: 1px;
-    background-color: #191919;
-    border: 1px solid #3c3c3c;
+    background-color: #7b00ff;
+    border: 1px solid #7b00ff;
     margin: 10px 0 0 11px;
     overflow: hidden;
 }
